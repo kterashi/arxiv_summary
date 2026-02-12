@@ -1,0 +1,71 @@
+# arXiv quant-ph タイトル一覧（カテゴリ別） — 2026-02-12
+
+## 量子機械学習（QML） (3件)
+- Run-length certificates in quantum learning: sample complexity and noise thresholds — [https://arxiv.org/abs/2602.10648](https://arxiv.org/abs/2602.10648)
+- Characterizing Trainability of Instantaneous Quantum Polynomial Circuit Born Machines — [https://arxiv.org/abs/2602.11042](https://arxiv.org/abs/2602.11042)
+- MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning — [https://arxiv.org/abs/2602.11092](https://arxiv.org/abs/2602.11092)
+
+## 誤り訂正・フォールトトレランス／QEC (2件)
+- Erasure Thresholds for Hyperbolic and Semi-Hyperbolic Surface Codes — [https://arxiv.org/abs/2602.10423](https://arxiv.org/abs/2602.10423)
+- Error-Tolerant Quantum State Discrimination: Optimization and Quantum Circuit Synthesis — [https://arxiv.org/abs/2602.10731](https://arxiv.org/abs/2602.10731)
+
+## 量子ネットワーク／通信・QKD (5件)
+- Entanglement percolation in random quantum networks — [https://arxiv.org/abs/2602.10189](https://arxiv.org/abs/2602.10189)
+- High-performance source of indistinguishable polarization-entangled photons with a local oscillator reference for quantum networking — [https://arxiv.org/abs/2602.10317](https://arxiv.org/abs/2602.10317)
+- Practical quantum tokens: challenges and perspectives — [https://arxiv.org/abs/2602.10621](https://arxiv.org/abs/2602.10621)
+- Dimensional advantage in network cooling with hybrid oscillator-qudit systems — [https://arxiv.org/abs/2602.10683](https://arxiv.org/abs/2602.10683)
+- Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing — [https://arxiv.org/abs/2602.11033](https://arxiv.org/abs/2602.11033)
+
+## 量子センシング・メトロロジー (2件)
+- Quantum Integrated Sensing and Computation with Indefinite Causal Order — [https://arxiv.org/abs/2602.10225](https://arxiv.org/abs/2602.10225)
+- Quantum Brownian motion with non-Gaussian noises: Fluctuation-Dissipation Relation and nonlinear Langevin equation — [https://arxiv.org/abs/2602.10421](https://arxiv.org/abs/2602.10421)
+
+## 量子ハードウェア（超伝導・デバイス・実装） (1件)
+- Two-Level System Spectroscopy from Correlated Multilevel Relaxation in Superconducting Qubits — [https://arxiv.org/abs/2602.11127](https://arxiv.org/abs/2602.11127)
+
+## 量子ハードウェア（光・フォトニクス） (2件)
+- Photon Anti-Bunching and Quantum Non-Gaussianity from High-Harmonic Generation — [https://arxiv.org/abs/2602.10882](https://arxiv.org/abs/2602.10882)
+- Photon counting beyond the rotating-wave approximation — [https://arxiv.org/abs/2602.10950](https://arxiv.org/abs/2602.10950)
+
+## 量子ハードウェア（原子・イオン・Rydberg） (16件)
+- Permanents of matrix ensembles: computation, distribution, and geometry — [https://arxiv.org/abs/2602.10141](https://arxiv.org/abs/2602.10141)
+- Cosmological Expansion Induces Interference Between Communication and Entanglement Harvesting — [https://arxiv.org/abs/2602.10203](https://arxiv.org/abs/2602.10203)
+- Communication complexity bounds from information causality — [https://arxiv.org/abs/2602.10206](https://arxiv.org/abs/2602.10206)
+- In-Situ Rewiring of Two-Dimensional Ion Lattice Interactions Using Metastable State Shelving — [https://arxiv.org/abs/2602.10307](https://arxiv.org/abs/2602.10307)
+- Privacy-Utility Tradeoffs in Quantum Information Processing — [https://arxiv.org/abs/2602.10510](https://arxiv.org/abs/2602.10510)
+- Projection-Based Memory Kernel Coupling Theory for Quantum Dynamics: A Stable Framework for Non-Markovian Simulations — [https://arxiv.org/abs/2602.10629](https://arxiv.org/abs/2602.10629)
+- Experimental demonstration that qubits can be cloned at will, if encrypted with a single-use decryption key — [https://arxiv.org/abs/2602.10695](https://arxiv.org/abs/2602.10695)
+- Efficient Operator Selection and Warm-Start Strategy for Excitations in Variational Quantum Eigensolvers — [https://arxiv.org/abs/2602.10776](https://arxiv.org/abs/2602.10776)
+- Emulation of large-scale qubit registers with a phase space approach — [https://arxiv.org/abs/2602.10830](https://arxiv.org/abs/2602.10830)
+- Quantum Optimization in Loc(Q)ation Science: QUBO Formulations, Benchmark Problems, and a Computational Study — [https://arxiv.org/abs/2602.10951](https://arxiv.org/abs/2602.10951)
+- Improving Quantum Multi-Objective Optimization with Archiving and Substitution — [https://arxiv.org/abs/2602.10952](https://arxiv.org/abs/2602.10952)
+- Ergotropic Mpemba crossings in finite-dimensional quantum batteries — [https://arxiv.org/abs/2602.11056](https://arxiv.org/abs/2602.11056)
+- A QFT information protocol for charged black holes — [https://arxiv.org/abs/2602.10733](https://arxiv.org/abs/2602.10733)
+- Between equilibrium and fluctuation: Einstein's heuristic argument and Boltzmann's principle — [https://arxiv.org/abs/2602.10738](https://arxiv.org/abs/2602.10738)
+- Scaling and Universality at Noise-Affected Non-Equilibrium Spin Correlation Functions — [https://arxiv.org/abs/2602.10805](https://arxiv.org/abs/2602.10805)
+- A generalization of Frenkel's formula — [https://arxiv.org/abs/2602.10962](https://arxiv.org/abs/2602.10962)
+
+## オープン量子系・非エルミート・Lindblad (1件)
+- Mixed-State Topology in Non-Hermitian Systems — [https://arxiv.org/abs/2602.10831](https://arxiv.org/abs/2602.10831)
+
+## 量子情報理論・基礎・QFT (3件)
+- Uncertainty and Wigner negativity in Hilbert-space classical mechanics — [https://arxiv.org/abs/2602.10341](https://arxiv.org/abs/2602.10341)
+- Pilot-Wave Theories as Hidden Markov Models — [https://arxiv.org/abs/2602.10569](https://arxiv.org/abs/2602.10569)
+- Properties of Bose-Einstein condensates with altermagnetism — [https://arxiv.org/abs/2602.10362](https://arxiv.org/abs/2602.10362)
+
+## 量子アルゴリズム／計算手法 (1件)
+- Block encoding of sparse matrices with a periodic diagonal structure — [https://arxiv.org/abs/2602.10589](https://arxiv.org/abs/2602.10589)
+
+## 凝縮系・量子多体系／量子光学 (3件)
+- Generalized Kramers-Wannier Self-Duality in Hopf-Ising Models — [https://arxiv.org/abs/2602.10183](https://arxiv.org/abs/2602.10183)
+- Nonreciprocal many-body physics — [https://arxiv.org/abs/2602.11111](https://arxiv.org/abs/2602.11111)
+- Floquet Control of Electron and Exciton Transport in Kekul\'e-Distorted Graphene — [https://arxiv.org/abs/2602.11119](https://arxiv.org/abs/2602.11119)
+
+## その他（レビュー・講義・交差分野） (7件)
+- Comparing and correcting robustness metrics for quantum optimal control — [https://arxiv.org/abs/2602.10349](https://arxiv.org/abs/2602.10349)
+- Accelerating Classical and Quantum Tensor PCA — [https://arxiv.org/abs/2602.10366](https://arxiv.org/abs/2602.10366)
+- General Theory of Stable Microwave-Optical Quantum Resources in Hybrid-System Dynamics — [https://arxiv.org/abs/2602.10581](https://arxiv.org/abs/2602.10581)
+- Maximum residual strong monogamy inequality for multiqubit entanglement — [https://arxiv.org/abs/2602.10668](https://arxiv.org/abs/2602.10668)
+- Magneto-optical properties of the neutral silicon-vacancy center in diamond under extreme isotropic strain fields — [https://arxiv.org/abs/2602.10690](https://arxiv.org/abs/2602.10690)
+- Multi-spin control from one-spin pulses — [https://arxiv.org/abs/2602.10861](https://arxiv.org/abs/2602.10861)
+- Reaching the quantum noise limit for interferometric measurement of optical nonlinearity in vacuum — [https://arxiv.org/abs/2602.10896](https://arxiv.org/abs/2602.10896)
