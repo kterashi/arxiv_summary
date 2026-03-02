@@ -1,0 +1,72 @@
+# arXiv quant-ph タイトル一覧（カテゴリ別） — 2026-02-09
+
+## 量子機械学習（QML） (4件)
+- Quenching Speculation in Quantum Markets via Entangled Neural Traders — [https://arxiv.org/abs/2602.06367](https://arxiv.org/abs/2602.06367)
+- HyQuRP: Hybrid quantum-classical neural network with rotational and permutational equivariance for 3D point clouds — [https://arxiv.org/abs/2602.06381](https://arxiv.org/abs/2602.06381)
+- Quantum Attention by Overlap Interference: Predicting Sequences from Classical and Many-Body Quantum Data — [https://arxiv.org/abs/2602.06699](https://arxiv.org/abs/2602.06699)
+- Consensus Protocols for Entanglement-Aware Scheduling in Distributed Quantum Neural Networks — [https://arxiv.org/abs/2602.06847](https://arxiv.org/abs/2602.06847)
+
+## 誤り訂正・フォールトトレランス／QEC (1件)
+- A Complete Equational Theory for Real-Clifford+CH Quantum Circuits — [https://arxiv.org/abs/2602.06644](https://arxiv.org/abs/2602.06644)
+
+## 量子ネットワーク／通信・QKD (1件)
+- High-speed phase-encoded quantum secure direct communication over 11.4 km heterogeneous free-space and fiber links — [https://arxiv.org/abs/2602.06624](https://arxiv.org/abs/2602.06624)
+
+## 量子センシング・メトロロジー (5件)
+- Time-reversal Interferometry Using Cat States with Scalable Entangling Resources — [https://arxiv.org/abs/2602.06308](https://arxiv.org/abs/2602.06308)
+- Lunar Silicon Cavity — [https://arxiv.org/abs/2602.06352](https://arxiv.org/abs/2602.06352)
+- Bridging Quantum and Semi-Classical Thermodynamics in Cavity QED — [https://arxiv.org/abs/2602.06744](https://arxiv.org/abs/2602.06744)
+- Millimeter-scale rigid diamond probe for high sensitivity endoscopic-magnetometry applications — [https://arxiv.org/abs/2602.06077](https://arxiv.org/abs/2602.06077)
+- Sawtooth wave adiabatic passage in a grating magneto-optical trap — [https://arxiv.org/abs/2602.06230](https://arxiv.org/abs/2602.06230)
+
+## 量子ハードウェア（超伝導・デバイス・実装） (2件)
+- Hybrid Coupling Topology with Dynamic ZZ Suppression for Optimizing Circuit Depth during Runtime in Superconducting Quantum Processor — [https://arxiv.org/abs/2602.06812](https://arxiv.org/abs/2602.06812)
+- Charge-$4e$ superconductor with parafermionic vortices: A path to universal topological quantum computation — [https://arxiv.org/abs/2602.06963](https://arxiv.org/abs/2602.06963)
+
+## 量子ハードウェア（光・フォトニクス） (5件)
+- Coherent Spin-Photon Interface of single PL6 Color Centers in Silicon Carbide — [https://arxiv.org/abs/2602.06421](https://arxiv.org/abs/2602.06421)
+- Extensible universal photonic quantum computing with nonlinearity — [https://arxiv.org/abs/2602.06544](https://arxiv.org/abs/2602.06544)
+- Heralding efficiency and brightness optimization of a micro-ring resonator via tunable coupling — [https://arxiv.org/abs/2602.06790](https://arxiv.org/abs/2602.06790)
+- Phase-sensitive characterization of a quantum frequency converter by spectral interferometry — [https://arxiv.org/abs/2602.06796](https://arxiv.org/abs/2602.06796)
+- Highly-Indistinguishable Single-Photons at 1550 nm from a Two-photon Resonantly Excited Purcell-enhanced Quantum Dot — [https://arxiv.org/abs/2602.06140](https://arxiv.org/abs/2602.06140)
+
+## 量子ハードウェア（原子・イオン・Rydberg） (21件)
+- Entanglement Before Spacetime in Quantum-Gravity-Induced Interactions — [https://arxiv.org/abs/2602.06091](https://arxiv.org/abs/2602.06091)
+- Quantum simulation of the Dicke model in a two-dimensional ion crystal: chaos, quantum thermalization, and revivals — [https://arxiv.org/abs/2602.06114](https://arxiv.org/abs/2602.06114)
+- U(1) lattice gauge theory and string roughening on a triangular Rydberg array — [https://arxiv.org/abs/2602.06123](https://arxiv.org/abs/2602.06123)
+- Warm Starts, Cold States: Exploiting Adiabaticity for Variational Ground-States — [https://arxiv.org/abs/2602.06137](https://arxiv.org/abs/2602.06137)
+- Theory of direct measurement of the quantum pseudo-distribution via its characteristic function — [https://arxiv.org/abs/2602.06145](https://arxiv.org/abs/2602.06145)
+- Quantum-enhanced Markov Chain Monte Carlo for Combinatorial Optimization — [https://arxiv.org/abs/2602.06171](https://arxiv.org/abs/2602.06171)
+- Hybrid Quantum Image Preparation via JPEG Compression — [https://arxiv.org/abs/2602.06201](https://arxiv.org/abs/2602.06201)
+- Characterizing Quantum Error Correction Performance of Radiation-induced Errors — [https://arxiv.org/abs/2602.06202](https://arxiv.org/abs/2602.06202)
+- Achieving Sub-Exponential Speedup in Gate-Based Quantum Computing for Quadratic Unconstrained Binary Optimization — [https://arxiv.org/abs/2602.06420](https://arxiv.org/abs/2602.06420)
+- Quantum Dynamics of Vibrationally-Assisted Electron Transfer beyond Condon approximation in the Ligand-Receptor Complex — [https://arxiv.org/abs/2602.06469](https://arxiv.org/abs/2602.06469)
+- Local Certification of Many-Body Steady States — [https://arxiv.org/abs/2602.06487](https://arxiv.org/abs/2602.06487)
+- Algebraic Reduction to Improve an Optimally Bounded Quantum State Preparation Algorithm — [https://arxiv.org/abs/2602.06535](https://arxiv.org/abs/2602.06535)
+- Normal mode splitting induced synchronization blockade in coupled quantum van der Pol oscillators — [https://arxiv.org/abs/2602.06632](https://arxiv.org/abs/2602.06632)
+- Geometry of restricted information: the case of quantum thermodynamics — [https://arxiv.org/abs/2602.06716](https://arxiv.org/abs/2602.06716)
+- The Quantum Sieve Tracer: A Hybrid Framework for Layer-Wise Activation Tracing in Large Language Models — [https://arxiv.org/abs/2602.06852](https://arxiv.org/abs/2602.06852)
+- Symmetry and localisation in causally constrained quantum operator dynamics — [https://arxiv.org/abs/2602.06913](https://arxiv.org/abs/2602.06913)
+- Private and interpretable clinical prediction with quantum-inspired tensor train models — [https://arxiv.org/abs/2602.06110](https://arxiv.org/abs/2602.06110)
+- A Nonequilibrium Equation of State for a Turbulent 2D Bose Gas — [https://arxiv.org/abs/2602.06131](https://arxiv.org/abs/2602.06131)
+- Krylov Distribution — [https://arxiv.org/abs/2602.06150](https://arxiv.org/abs/2602.06150)
+- Disentanglement by means of action-induced representations — [https://arxiv.org/abs/2602.06741](https://arxiv.org/abs/2602.06741)
+- Quasiperiodic dynamics in the nondipole x-ray strong field ionization in stabilization regime — [https://arxiv.org/abs/2602.06762](https://arxiv.org/abs/2602.06762)
+
+## オープン量子系・非エルミート・Lindblad (1件)
+- Biorthogonal scattering and generalized unitarity in non-Hermitian systems — [https://arxiv.org/abs/2602.06349](https://arxiv.org/abs/2602.06349)
+
+## 量子情報理論・基礎・QFT (1件)
+- Comment on "Relativistic covariance and nonlinear quantum mechanics: Tomonaga-Schwinger analysis'' — [https://arxiv.org/abs/2602.06845](https://arxiv.org/abs/2602.06845)
+
+## 量子アルゴリズム／計算手法 (1件)
+- Determining the ensemble N-representability of Reduced Density Matrices — [https://arxiv.org/abs/2602.06167](https://arxiv.org/abs/2602.06167)
+
+## 量子熱力学・統計 (1件)
+- Second law of thermodynamics in closed quantum many-body systems — [https://arxiv.org/abs/2602.06657](https://arxiv.org/abs/2602.06657)
+
+## その他（レビュー・講義・交差分野） (4件)
+- Quantum-controlled synthetic materials — [https://arxiv.org/abs/2602.06108](https://arxiv.org/abs/2602.06108)
+- Experimental Quantum Bernoulli Factories via Bell-Basis Measurements — [https://arxiv.org/abs/2602.06193](https://arxiv.org/abs/2602.06193)
+- Semi-Device-Independent Quantum Random Number Generator Resistant to General Attacks — [https://arxiv.org/abs/2602.06362](https://arxiv.org/abs/2602.06362)
+- Deforming the Double-Scaled SYK & Reaching the Stretched Horizon From Finite Cutoff Holography — [https://arxiv.org/abs/2602.06113](https://arxiv.org/abs/2602.06113)
