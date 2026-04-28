@@ -1,0 +1,233 @@
+# 量子分野別リスト（arXiv quant-ph ダイジェスト 2026-04-28）
+
+## 量子誤り訂正
+- How fast can a quantum gate be? Exact speed limits from geometry - https://arxiv.org/abs/2604.23031
+- Beyond Monolithic Scaling: Modularity and Heterogeneity as an Architectural Imperative for Utility-Scale Quantum Computing - https://arxiv.org/abs/2604.24059
+- Single-copy stabilizer learning: average case and worst case - https://arxiv.org/abs/2604.24099
+- Optimization Using Locally-Quantum Decoders - https://arxiv.org/abs/2604.24633
+- DiffQEC: A versatile diffusion model for quantum error correction - https://arxiv.org/abs/2604.24640
+- CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling - https://arxiv.org/abs/2604.24739
+- Localizing genuine multiparty entanglement in noisy stabilizer states - https://arxiv.org/abs/2211.01064
+- Thermodynamic Recycling of Algorithmic Failure Branches: Quantum-Computer Demonstration with Quantum Error Correction - https://arxiv.org/abs/2601.07522
+- A Mixture of Experts Vision Transformer for High-Fidelity Surface Code Decoding - https://arxiv.org/abs/2601.12483
+- On Non-Existence of Stabilizer Absolutely Maximally Entangled States in Even Local Dimensions - https://arxiv.org/abs/2603.18193
+- Fair Decoder Baselines and Rigorous Finite-Size Scaling for Bivariate Bicycle Codes on the Quantum Erasure Channel - https://arxiv.org/abs/2603.19062
+- Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach - https://arxiv.org/abs/2604.18968
+
+## FTQCアルゴリズム
+- When T-Depth Misleads: Predicting Fault-Tolerant Quantum Execution Slowdown under Magic-State Delivery Constraints - https://arxiv.org/abs/2604.11409
+
+## 量子通信・暗号
+- Deterministic Multi-User Identification over Bosonic Channels - https://arxiv.org/abs/2604.22804
+- A Specialized Importance-Aware Quantum Convolutional Neural Network with Ring-Topology (IA-QCNN) for MGMT Promoter Methylation Prediction in Glioblastoma - https://arxiv.org/abs/2604.22877
+- Coherence dynamics in quantum many-body systems with conservation laws - https://arxiv.org/abs/2604.23192
+- Fiber-integrated Quantum Frequency Conversion for Long-distance Quantum Networking - https://arxiv.org/abs/2604.23444
+- Quantum Causal Discovery via Amplitude Estimation of Kullback-Leibler Divergence - https://arxiv.org/abs/2604.23451
+- Efficient Quantum Fully Homomorphic Encryption - https://arxiv.org/abs/2604.23490
+- Manipulation of diverse quantum correlations based on a hybrid optomagnomechanical system - https://arxiv.org/abs/2604.23495
+- Explore Simpler Eigenmarking: Quantum Entailment Model Checking - https://arxiv.org/abs/2604.23531
+- Decoherence Mitigation with Local NOT Gates in Multipartite Systems - https://arxiv.org/abs/2604.23556
+- Quantum Skyrmions in Mixed States of Light and their Nested Topology - https://arxiv.org/abs/2604.23571
+- Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System - https://arxiv.org/abs/2604.23743
+- Electrically detected magnetic resonance of $^{75}$As magnetic clock transitions in silicon - https://arxiv.org/abs/2604.24090
+- A Novel Hierarchy of Quantum Kernel Networks on Smoothed Particle Hydrodynamics - https://arxiv.org/abs/2604.24159
+- New non-Euclidean neural quantum states from additional types of hyperbolic recurrent neural networks - https://arxiv.org/abs/2604.24337
+- Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware - https://arxiv.org/abs/2604.24397
+- Noise-robust 1-copy distillation protocol for all distillable Bell-diagonal qutrits - https://arxiv.org/abs/2604.24460
+- Adaptive Tensor Network Sampling for Quantum Optimal Control - https://arxiv.org/abs/2604.24467
+- Witnessing entanglement between photon and matter due to graviton exchange - https://arxiv.org/abs/2604.24496
+- Balancing Quantum Memories in Asymmetric Repeaters for High-Fidelity Entanglement Distribution - https://arxiv.org/abs/2604.24554
+- Gauge-covariant projected entangled paired states for interacting systems in a magnetic field - https://arxiv.org/abs/2604.24574
+- Contracting Tensor Networks with Generalized Belief Propagation - https://arxiv.org/abs/2604.24760
+- Optimum-Transmission Free-Space Optical Communications - https://arxiv.org/abs/2604.23417
+- Boundary-Robust Transmission Asymmetry as a Topological Signature in Open Floquet Lattices - https://arxiv.org/abs/2604.23420
+- Entropy Signatures of Collective Modes and Vortex Dynamics in Rotating Two--Dimensional Bose--Einstein Condensates - https://arxiv.org/abs/2604.24557
+- Nonlocal and quantum advantages in network coding for multiple access channels - https://arxiv.org/abs/2304.10792
+- Multicopy quantum state teleportation with application to storage and retrieval of quantum programs - https://arxiv.org/abs/2409.10393
+- Tensor Network Loop Cluster Expansions for Quantum Many-Body Problems - https://arxiv.org/abs/2510.05647
+- Network-Irreducible Multiparty Entanglement in Quantum Matter - https://arxiv.org/abs/2512.11118
+- Spectroscopic Signatures of a Liouvillian Exceptional Spectral Phase in a Collective Spin - https://arxiv.org/abs/2602.01375
+- Pixel-Translation-Equivariant Quantum Convolutional Neural Networks via Fourier Multiplexers - https://arxiv.org/abs/2604.06094
+
+## 量子基礎
+- Quantum Dynamics and Collapse-and-Revival Phenomena in the Dunkl Anharmonic Oscillator - https://arxiv.org/abs/2604.22945
+- Qutrit Clifford+T gates by two-body angular momentum couplings, rotations and one-axis-twistings - https://arxiv.org/abs/2604.23007
+- Quantum speed limit for measurement probabilities - https://arxiv.org/abs/2604.23160
+- Introducing the Correlation Concentration Ratio (CCR): Quantitative Framework for Comparing Quantum Cluster States - https://arxiv.org/abs/2604.23258
+- Intrinsic Pointer Basis and Irreversible Classicality from Coherence Contraction - https://arxiv.org/abs/2604.23304
+- Constrained Quantum Optimization meets Model Reduction - https://arxiv.org/abs/2604.23317
+- Principles of relativistic quantum statistical thermodynamics: a class of exactly solvable models - https://arxiv.org/abs/2604.23409
+- Quantum average correlation based on average coherence - https://arxiv.org/abs/2604.23501
+- Quantum average correlations and complementarity relations via metric-adjusted skew information - https://arxiv.org/abs/2604.23504
+- A Fully Quantum Algorithm for Image Edge Detection - https://arxiv.org/abs/2604.23535
+- Peak-valley mechanism for Hilbert space fragmentation - https://arxiv.org/abs/2604.23659
+- Graded hopping screens nonreciprocity and reorganizes Stark asymptotics in a non-Hermitian Stark chain - https://arxiv.org/abs/2604.23672
+- Entanglement (1+2) QED in a double layer of Dirac Materials - https://arxiv.org/abs/2604.23673
+- Minimal spin-rotor model for Barnett and Einstein--de Haas physics - https://arxiv.org/abs/2604.23768
+- Representability for Quantum Theory beyond Particle-Number Conservation - https://arxiv.org/abs/2604.23869
+- Contextuality from the Projector Overlap Matrix - https://arxiv.org/abs/2604.23898
+- On Realization of Back-Action-Evading Measurements and Quantum Non-Demolition Variables via Linear Systems Engineering - https://arxiv.org/abs/2604.24243
+- Catalytic Enhancement of Coherence Fraction in Noisy Quantum Channels and Characterization of Strictly Incoherent Operations - https://arxiv.org/abs/2604.24291
+- Exhaustive and feasible parametrisation with applications to the travelling salesperson problem - https://arxiv.org/abs/2604.24297
+- How Quantum Contextuality disappears in the Classical Limit - https://arxiv.org/abs/2604.24735
+- Realizing multi-orbital Emery models with ultracold atoms - https://arxiv.org/abs/2604.22955
+- Bayesian phase transition for the critical Ising model: Enlarged replica symmetry in the epsilon expansion and in 2D - https://arxiv.org/abs/2604.23346
+- Observation of Erratic Non-Hermitian Skin Effect in Phononic Crystals - https://arxiv.org/abs/2604.23713
+- Electronic Final States in Nuclear $\beta$ Decay: A Sudden-Approximation Framework - https://arxiv.org/abs/2604.23910
+- Scalable and deterministic Greenberger-Horne-Zeilinger state generation via graph states-assisted measurements - https://arxiv.org/abs/2410.15892
+- Fidelity preserving and decoherence for mixed unitary quantum channels - https://arxiv.org/abs/2410.20117
+- Taming Rydberg Decay with Measurement-based Quantum Computation - https://arxiv.org/abs/2411.04664
+- Non-Hermitian magnetic moment - https://arxiv.org/abs/2506.05206
+- From Bell Products to Greenberger-Horne-Zeilinger states: Quantum Memories via emergent Hamiltonians - https://arxiv.org/abs/2510.01117
+- Universal quantum control over non-Hermitian continuous-variable systems - https://arxiv.org/abs/2512.04495
+
+## 量子計算・アルゴリズム
+- Accelerating quantum Gibbs sampling without quantum walks - https://arxiv.org/abs/2604.22996
+- Quantum algorithm for solving high-dimensional linear stochastic differential equations via amplitude encoding of the noise term - https://arxiv.org/abs/2604.24133
+- On the complexity of quantum numerical integration: an angle-structure characterization - https://arxiv.org/abs/2604.24289
+- Practical lower bounds for hybrid quantum interior point methods in linear programming - https://arxiv.org/abs/2604.24362
+- Optimization of two-photon excitation by indistinguishable photons in a three-level atom - https://arxiv.org/abs/2604.24560
+- Application of a Quantum Amplitude Redistribution Algorithm to the Data Filtering Problem - https://arxiv.org/abs/2604.24742
+- Module Lattice Security (Part II): Module Lattice Reduction via Optimal Sign Selection - https://arxiv.org/abs/2604.22900
+- A New Algorithm for Applying Sequences of Affine Transformations in Quantum Circuits - https://arxiv.org/abs/2412.09714
+- Constant Factor Analysis of Optimal Quantum Linear Solvers in Practice - https://arxiv.org/abs/2604.22185
+
+## 量子計測・センシング
+- Quantum criticality from spectral collapse in the two-photon Rabi model - https://arxiv.org/abs/2604.23164
+- Complementarity between bosonic and fermionic many-body interferences with partially distinguishable particles - https://arxiv.org/abs/2604.23316
+- From Independent to Joint: Enhancing Quantum Phase and Correlation Factor Estimation by Squeezed Reservoir Engineering - https://arxiv.org/abs/2604.23476
+- Quantum Prediction of Transport Dynamics in Discretized State Spaces - https://arxiv.org/abs/2604.24161
+- Enhancing Phase Retrievability of Quantum Channels via Interferometric Coupling - https://arxiv.org/abs/2604.24363
+- Enhanced Atom Capture via Multi-Frequency Magneto-Optical Trapping - https://arxiv.org/abs/2604.23221
+- From Random Fringes to Deterministic Response: Statistical Foundations of Time-Reversed Young Interferometry - https://arxiv.org/abs/2604.23797
+- Squeezed state degradations due to mode mismatch and thermal aberrations in gravitational wave detectors - https://arxiv.org/abs/2604.23835
+- Singlet-triplet oscillations in multivalley Si double quantum dots - https://arxiv.org/abs/2604.24689
+- Semiclassical phases of charged spin-$1/2$ matter-wave interferometers in gravitational wave backgrounds - https://arxiv.org/abs/2604.24751
+
+## 量子ハードウェア
+- Bell Inequalities from Polyhedral Sampling - https://arxiv.org/abs/2604.22859
+- Charging Dynamics in a Distance-Modulated Planar Quantum-Battery Architecture - https://arxiv.org/abs/2604.22878
+- Improvement of performance of Grover's algorithm on three generations of Heron family IBM QPUs without and with topological dynamical decoupling - https://arxiv.org/abs/2604.23228
+- A Conceptual Technology-Dependent Framework of Ternary Quantum Gates - https://arxiv.org/abs/2604.23242
+- Non-unitary extension of Grover's search algorithm - https://arxiv.org/abs/2604.23382
+- Calibrating the Role of Entanglement in Variational Quantum Algorithms from a Geometric Perspective - https://arxiv.org/abs/2604.23555
+- Quantum Circuit Cutting: Complexity and Optimization - https://arxiv.org/abs/2604.23700
+- Architecture-aware Unitary Synthesis - https://arxiv.org/abs/2604.23777
+- Do Quantum Transformers Help? A Systematic VQC Architecture Comparison on Tabular Benchmarks - https://arxiv.org/abs/2604.23931
+- Lobe Dynamics, Phase-Space Transport, and Non-Adiabatic Leakage Thresholds in the Nonautonomous Kerr-Cat Qubit - https://arxiv.org/abs/2604.24042
+- Third Quantization for Order Parameters (II): Local Field Quantization in Superconducting Quantum Circuits - https://arxiv.org/abs/2604.24092
+- AutoQResearch: LLM-Guided Closed-Loop Policy Search for Adaptive Variational Quantum Optimization - https://arxiv.org/abs/2604.24283
+- Impact of thermal and dissipative effects in a periodically-kicked quantum battery - https://arxiv.org/abs/2604.24409
+- Noise-aware selection of circuit cutting strategies under hardware noise non-uniformity - https://arxiv.org/abs/2604.24422
+- Dualistic operational characterization of device-dependent correlation sets via convex analysis in the $(2,m,2)$ Bell scenario - https://arxiv.org/abs/2604.24423
+- Improving Zero-Noise Extrapolation via Physically Bounded Models - https://arxiv.org/abs/2604.24475
+- GSC-QEMit: A Telemetry-Driven Hierarchical Forecast-and-Bandit Framework for Adaptive Quantum Error Mitigation - https://arxiv.org/abs/2604.24551
+- Isotopically enriched epitaxial CaWO$_{4}$ thin films for Er$^{3+}$ spin-photon quantum interfaces - https://arxiv.org/abs/2604.24582
+- Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings - https://arxiv.org/abs/2604.24597
+- Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges - https://arxiv.org/abs/2604.24694
+- Operating a contextual Stern-Gerlach apparatus - https://arxiv.org/abs/2604.24727
+- Experimental high-dimensional multi-qubit Bell non-locality on a superconducting quantum processor - https://arxiv.org/abs/2604.24740
+- Fraunhofer Patterns in Atomic Josephson Junctions - https://arxiv.org/abs/2604.22923
+- Playing Dice with the Universe: Programming Quantum Computers to Play Traditional Games - https://arxiv.org/abs/2604.23819
+- Gate-dependent offset charge shifts and anharmonicity in gatemon qubits in the weak tunneling regime - https://arxiv.org/abs/2604.24716
+- Demonstration of a quantum C-NOT Gate in a Time-Multiplexed fully reconfigurable photonic processor - https://arxiv.org/abs/2412.02478
+- Probing excited-state dynamics of transmon ionization - https://arxiv.org/abs/2505.00639
+- Multipartite Hardy paradox unlocks device-independent key sharing - https://arxiv.org/abs/2505.10170
+- Overcoming limitations on gate fidelity in noisy static exchange-coupled surface qubits - https://arxiv.org/abs/2509.18737
+- Optimal Construction of Two-Qubit Gates using the Symmetries of B Gate Equivalence Class - https://arxiv.org/abs/2601.13983
+
+## 量子機械学習
+- Maritime object classification with SAR imagery using quantum kernel methods - https://arxiv.org/abs/2512.11367
+
+## 量子多体系・物性・カオス
+- Design Principles for Enhanced Quantum Transport with Site-Dependent Noise - https://arxiv.org/abs/2604.23005
+- Chaotic Billiard Lasers - https://arxiv.org/abs/2604.23614
+- Natural-orbital locking reveals hidden steady-state skin order in Gaussian open fermion chains - https://arxiv.org/abs/2604.24121
+- A Spectral Gap Informed Parameter Schedule for QAOA - https://arxiv.org/abs/2604.24580
+- Quantum vs. Classical Spin: A Comparative Study of Dipolar Spin Dynamics and the Onset of Chaos - https://arxiv.org/abs/2604.24603
+- Optical depth dictates universal bounds on many-body decay in atomic ensembles - https://arxiv.org/abs/2604.24680
+- Strong interaction induced dimensional crossover in 1D quantum gas - https://arxiv.org/abs/2411.13088
+- Quantum echo-enabled high harmonic generation using ultrafast electrons - https://arxiv.org/abs/2604.23569
+- Core-Hole Excitation Dynamics of One-Dimensional Ultracold Trapped Fermions - https://arxiv.org/abs/2604.23785
+- Dynamical preparation of U(1) quantum spin liquids in an analogue quantum simulator - https://arxiv.org/abs/2604.24744
+- Spinors with torsion and matter$-$antimatter asymmetry - https://arxiv.org/abs/2101.04212
+- Entanglement and fidelity across quantum phase transitions in locally perturbed topological codes with open boundaries - https://arxiv.org/abs/2405.00416
+- Non-identical anyon algebras from compact-field quantum geometry - https://arxiv.org/abs/2410.20835
+- Certain BCS wavefunctions are quantum many-body scars - https://arxiv.org/abs/2411.13651
+- Scaling of entanglement entropy and correlations in the variable-range extended Ising model - https://arxiv.org/abs/2504.01846
+- New aspects of quantum topological data analysis: Betti number estimation, and testing and tracking of homology and cohomology classes - https://arxiv.org/abs/2506.01432
+- Generalized Spectral Statistics in the Kicked Ising model - https://arxiv.org/abs/2506.15816
+- On the invariants of finite groups arising in a topological quantum field theory - https://arxiv.org/abs/2510.14971
+- Exact Combinatorial Density of States for the Critical 1D Ising Model - https://arxiv.org/abs/2511.01646
+- Locked Subharmonic Oscillations in the Entanglement Spectrum of a Periodically Driven Topological Chain - https://arxiv.org/abs/2604.07442
+- Quantum chaotic systems: a random-matrix approach - https://arxiv.org/abs/2604.12141
+- Thermalization Regimes in a Chaotic Tavis-Cummings Model - https://arxiv.org/abs/2604.20955
+
+## その他
+- No cloning with unitary scaling - https://arxiv.org/abs/2604.22960
+- Heralded Entanglement Transfer from Entangled Atomic Pair to Free Electrons - https://arxiv.org/abs/2604.22974
+- Wigner functions, negativity volumes, and experimental generation of Pegg-Barnett phase-operator eigenstates - https://arxiv.org/abs/2604.23086
+- An Analysis of Commutation-Based Trotter Ordering Strategies on Heisenberg-Style Hamiltonians - https://arxiv.org/abs/2604.23138
+- Quantum Sufficiency for Self-Adjoint Statistical Models via Likelihood-Type Operators on Real $*$-Subalgebras and Real Jordan Algebras - https://arxiv.org/abs/2604.23292
+- Partial solvability induced by dark states in a box trap with decentered two-body interaction - https://arxiv.org/abs/2604.23507
+- Observation of OAM non-conservation in entangled photon generation - https://arxiv.org/abs/2604.23550
+- Universal Complex Quantum-Like Bits from Hermitian Weighted Graphs - https://arxiv.org/abs/2604.23991
+- Dynamical generation of stable optical-microwave squeezing in structured reservoirs - https://arxiv.org/abs/2604.24215
+- Regularization of Divergent Power Sums via Fractional Extension of Differential Generators - https://arxiv.org/abs/2604.23544
+- Wichmann-Kroll vacuum polarization correction to lithium-like systems in a Gaussian basis set - https://arxiv.org/abs/2604.23660
+- Symmetry-Guided Design of Quantum Couplers in Dirac materials: AA-Bilayer Graphene Coupler - https://arxiv.org/abs/2604.23759
+- Causal structure in spin-foams - https://arxiv.org/abs/2109.00986
+- Completeness of qufinite ZXW calculus, a graphical language for finite-dimensional quantum theory - https://arxiv.org/abs/2309.13014
+- Fully Passive Quantum Conference Key Agreement - https://arxiv.org/abs/2407.15761
+- Bayesian rational agents in iterated quantum games - https://arxiv.org/abs/2408.02058
+- Enhancing the sensitivity of single microwave photon detection with bandwidth tunability - https://arxiv.org/abs/2501.07354
+- Wasserstein distances and divergences of order $p$ by quantum channels - https://arxiv.org/abs/2501.08066
+- Nonclassical nullifiers for quantum hypergraph states - https://arxiv.org/abs/2502.02226
+- Locating Rydberg Decay Error in SWAP-Leakage Reduction Circuit Protocol - https://arxiv.org/abs/2503.01649
+- Pump-Threshold-Free Frequency Comb via Cavity Floquet Engineering - https://arxiv.org/abs/2504.05877
+- Q-ball mechanism of electron transport and spin excitations properties of high-T$_c$ superconductors - https://arxiv.org/abs/2504.09610
+- Fractional Angular Momentum and Quasi-Probability Densities for Angular Degrees of Freedom - https://arxiv.org/abs/2504.20218
+- Online Voting using Point to MultiPoint Quantum Key Distribution - https://arxiv.org/abs/2505.21756
+- High-fidelity collisional quantum gates with fermionic atoms - https://arxiv.org/abs/2506.14711
+- Callan-Symanzik-like equation in information theory - https://arxiv.org/abs/2508.13330
+- Exploring the Spectral Edge in SYK Models - https://arxiv.org/abs/2510.07804
+- Quantum Action-Dependent Channels - https://arxiv.org/abs/2510.09834
+- Finite Key Security of the Extended B92 Protocol - https://arxiv.org/abs/2510.11488
+- Cavity QED beyond the Jaynes-Cummings model - https://arxiv.org/abs/2510.16634
+- No, classical gravity does not entangle quantized matter fields - https://arxiv.org/abs/2511.00852
+- Harmonic Control of Dynamical Freezing in Programmable Rydberg Atom Arrays - https://arxiv.org/abs/2511.09633
+- Quantum speed limit for observables from quantum asymmetry - https://arxiv.org/abs/2511.16526
+- Shake before use: universal enhancement of quantum thermometry by unitary driving - https://arxiv.org/abs/2511.19631
+- Transverse response from anisotropic Fermi surfaces - https://arxiv.org/abs/2512.05014
+- Sharing quantum indistinguishability with multiple parties - https://arxiv.org/abs/2512.15199
+- Hermitian Matrix Function Synthesis without Block-Encoding - https://arxiv.org/abs/2512.18249
+- Quantum Secret Sharing Rates - https://arxiv.org/abs/2512.22049
+- Hall's exact variance decomposition in Bohmian Mechanics - https://arxiv.org/abs/2512.24664
+- Quantum observers can communicate across multiverse branches - https://arxiv.org/abs/2601.08102
+- Precision Enhancement in Transient Quantum Thermometry:Cold-Probe Bias and Its Removal - https://arxiv.org/abs/2601.15237
+- Realisation of a Protected Cat-Qutrit Manifold via Engineered Quantum Tunnelling - https://arxiv.org/abs/2601.17675
+- On Tunneling in the Quantum Multiverse - https://arxiv.org/abs/2601.17856
+- Correlated dynamics of three-particle bound states induced by emergent impurities in Bose-Hubbard model - https://arxiv.org/abs/2601.20042
+- Quantum Dynamics of Vibrationally-Assisted Electron Transfer beyond Condon approximation in the Ligand-Receptor Complex - https://arxiv.org/abs/2602.06469
+- The continuous spectrum of bound states in expulsive potentials - https://arxiv.org/abs/2602.07281
+- A Course on the Introduction to Quantum Software Engineering: Experience Report - https://arxiv.org/abs/2602.07589
+- Kinematic Modulation in Driven Spin Resonance - https://arxiv.org/abs/2602.07636
+- A QFT information protocol for charged black holes - https://arxiv.org/abs/2602.10733
+- Coherent Biexciton Transport in the Presence of Exciton-Exciton Annihilation in Molecular Aggregates - https://arxiv.org/abs/2603.04483
+- Noise Correlations as a Resource in Pauli-Twirled Circuits - https://arxiv.org/abs/2603.12054
+- A simple understanding of quantum electrodynamics using Bohmian trajectories: detecting non-ontic photons - https://arxiv.org/abs/2603.18692
+- The typicality of symmetry-induced entanglement - https://arxiv.org/abs/2603.20786
+- A unified quantum computing quantum Monte Carlo framework through structured state preparation - https://arxiv.org/abs/2603.25582
+- Local robust shadows on a trapped ion computer -- a case study - https://arxiv.org/abs/2603.28307
+- Refining Quantum Phase Estimation Precision Conditions on Unitaries for Many-Electron Systems - https://arxiv.org/abs/2604.04298
+- Quantum Hilbert Space Fragmentation and Entangled Frozen States - https://arxiv.org/abs/2604.05218
+- Symplectic perspective to quantum computing for Hamiltonian systems - https://arxiv.org/abs/2604.10794
+- Trapped bosons in mean field QED, nonlinear resonance cascades and dynamical BEC formation - https://arxiv.org/abs/2604.11756
+- Quantum Mpemba effect in chaotic systems with conservation laws - https://arxiv.org/abs/2604.11876
+- A Gauge-Invariant Bundle Isomorphism Between Complex Velocity Fields and Symmetric Logarithmic Derivatives - https://arxiv.org/abs/2604.12187
+- Chiral state conversion near an exceptional point: speed-noise competition - https://arxiv.org/abs/2604.12354
+- Complete characterization of perfect quantum strategies in quantum magic rectangle games - https://arxiv.org/abs/2604.18317
+- Understanding Quantum Instruments - https://arxiv.org/abs/2604.18884
+- Lindbladian Homotopy Analysis Method to Solve Nonlinear Partial Differential Equations - https://arxiv.org/abs/2604.18924
+- Complex scaling approach to quasinormal modes of Schwarzschild and Reissner--Nordstr\"om black holes - https://arxiv.org/abs/2604.20442
+
