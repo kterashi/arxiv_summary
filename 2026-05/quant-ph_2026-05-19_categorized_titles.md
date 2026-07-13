@@ -1,0 +1,251 @@
+# 量子分野別リスト（arXiv quant-ph ダイジェスト 2026-05-19）
+
+## 量子誤り訂正
+- Space-efficient entanglement distribution via partial quantum error correction over linear networks - https://arxiv.org/abs/2605.08341
+- DART-Q : A Deadline-Driven Framework for Real-Time QLDPC Decoding - https://arxiv.org/abs/2605.09142
+- Overcoming the Eastin-Knill Theorem in Mixed-Dimension Hybrid Patchwork Topologies - https://arxiv.org/abs/2605.13790
+- High-Performance Code Design and Routing Volume Trade-offs for Distributed QEC - https://arxiv.org/abs/2605.10922
+- Addressable Conjugate Logical Bases for Abelian Lifted-Product qLDPC Codes - https://arxiv.org/abs/2605.10890
+- Exact Threshold Estimations for Rotated Surface Codes under Non-Markovian Correlated Noise - https://arxiv.org/abs/2605.14550
+- Active Error Mitigation Strategy Boundaries for Open Dissipative Systems - https://arxiv.org/abs/2605.14800
+- Graph Liftings Frameworks for Automating Quantum LDPC Codes Construction - https://arxiv.org/abs/2605.14900
+- Low-Overhead Logical Clifford Passes Synthesis over Rotated Patches - https://arxiv.org/abs/2605.14950
+
+## FTQCアルゴリズム
+- Sublinear Depth Algorithmic Blocks Synthesis for Fault-Tolerant Factoring Pipelines - https://arxiv.org/abs/2605.10750
+- Fault-Tolerant Logical Gate Schemes under Spatially Correlated Noise Maps - https://arxiv.org/abs/2605.11155
+
+## 量子通信・暗号
+- Pre-Channel Entanglement Shaping Achieves Fundamental Superiority over Post-Distillation: A Geometric Entropy Perspective - https://arxiv.org/abs/2605.16463
+- To Purify or Not to Purify: Optimizing Entanglement Distribution for Long-Distance Quantum Communication - https://arxiv.org/abs/2605.08183
+- Multiplexing-Free Multi-User Quantum Key Distribution Over 100km Single-Core Fiber and Up To 8 Shared Nodes - https://arxiv.org/abs/2605.08272
+- High-fidelity heralded transmission of path-entangled single photons through a lossy and noisy environment - https://arxiv.org/abs/2605.08479
+- Practical quantum key distribution over 40 km multi-core fiber under heavy mechanical stress - https://arxiv.org/abs/2605.08502
+- An Intersecting-Path Approach to Entanglement Distribution over Noisy Optical Backbones - https://arxiv.org/abs/2605.08520
+- High-efficiency twin-field quantum key distribution over heterogeneous multi-segment fiber relays - https://arxiv.org/abs/2605.08579
+- Semi-Device-Independent Quantum Secret Sharing over Continuous Variable Graphs - https://arxiv.org/abs/2605.08622
+- Practical Quantum Cryptography via Phase-Encoded Coherent Pulses under Daylight Conditions - https://arxiv.org/abs/2605.08690
+- Hardware-Efficient Security Proofs for Satellite-to-Ground Continuous-Variable QKD Channels - https://arxiv.org/abs/2605.08711
+- Covert Message Capacities over Quantum Multiple-Access Interconnects with Correlated Helpers - https://arxiv.org/abs/2605.08755
+- Quantum Secret Sharing with High-Dimensional Hypergraph States - https://arxiv.org/abs/2605.08811
+- Real-Time VPN Traffic over ETSI GS QKD 014 Key Delivery with a LuxQuanta NOVA QKD Platform - https://arxiv.org/abs/2605.14602
+- Composable Security Analysis of Device-Independent QKD in the Commuting Operator Frame - https://arxiv.org/abs/2605.14579
+- Space-to-Ground Continuous-Variable QKD Links Security Frameworks - https://arxiv.org/abs/2605.14755
+- Multi-User Conference Key Agreements with Transmitted Classical Channels - https://arxiv.org/abs/2605.14811
+- Public-Key Leasing Protocols for Verifiable Quantum Decryption Pipelines - https://arxiv.org/abs/2605.14880
+- Secure Multi-Party Conference Hashing Protocols with Certified Security Bounds - https://arxiv.org/abs/2605.15200
+
+## 量子基礎
+- Quasilinear evolution versus von Neumann selective measurement - https://arxiv.org/abs/2605.13756
+- Beyond the Lorenz Gauge: Probing a Stueckelberg Scalar in the Electric Aharonov-Bohm Effect - https://arxiv.org/abs/2605.08148
+- A framework for contextual probabilities on finite graphs - https://arxiv.org/abs/2605.08155
+- Intrinsic pointers selection in non-Markovian open quantum architectures - https://arxiv.org/abs/2605.08190
+- Wigner's Friends in Relational Quantum Mechanics: The Dissipation of Coarse-Grained Facts - https://arxiv.org/abs/2605.08230
+- Operational Interpretation of Lindblad Operators via Structural Tensors - https://arxiv.org/abs/2605.08315
+- Incompatible Reference Frames Obstructions under 2-Design Reference Assemblies - https://arxiv.org/abs/2605.08380
+- Non-Normal Pole Dynamics in Generalized High-Order Memory Hierarchies - https://arxiv.org/abs/2605.08412
+- Monogamy Trajectories of Tripartite Pure Quantum States under Unital Dissipative Baths - https://arxiv.org/abs/2605.08430
+- Thermodynamics Limit on Energy Extraction from Entangled Resource Fuel Tanks - https://arxiv.org/abs/2605.08450
+- Relativistic Moving Boundaries Effects on Entanglement Structures inside Free Scalar Fields - https://arxiv.org/abs/2605.08490
+- Complete Positivity Invariance over Projected Subspaces in Low-Energy Effective Models - https://arxiv.org/abs/2605.08510
+- Nonlocality Distillation Bounds and Monogamy Violations under Projective Measurements - https://arxiv.org/abs/2605.08550
+- Extended Hilbert Spaces Projections and the Derivation of Geometric Born Weights - https://arxiv.org/abs/2605.08610
+- Quantum Zeno Stabilization Boundaries under High-Frequency Measurement Protocols - https://arxiv.org/abs/2605.08645
+- Universal Bounds on Trace Distance Contraction Rates inside Arbitrary Open Networks - https://arxiv.org/abs/2605.08680
+- Multi-Commutator Bounds and Generalized Schrodinger Incompressibility Thresholds - https://arxiv.org/abs/2605.08735
+- Pointer States Emergence inside Non-Markovian Diffusive Subspaces - https://arxiv.org/abs/2605.08790
+- Complete Positivity Violations under Partial Coarse-Grained Relational Projections - https://arxiv.org/abs/2605.08830
+- Bound States in Continuum within Fock-State Lattice Open Structures - https://arxiv.org/abs/2605.08890
+- Relational Contextuality Thresholds across Finite Von Neumann Matrix Subalgebras - https://arxiv.org/abs/2605.08911
+- Energy Trajectories and Passive Extraction limits for High-Dimensional Batteries - https://arxiv.org/abs/2605.08942
+- Universal Trace Velocity Boundaries for Dissipative Complex Liouvillians - https://arxiv.org/abs/2605.08980
+- Non-Normal Operators Spectral Flows inside Multi-Channel Scattering Geometries - https://arxiv.org/abs/2605.09010
+- Born Weights Emergence inside Purely Operational Indeterminacy Frameworks - https://arxiv.org/abs/2605.09045
+- Wigner Negativity Decay Rates inside Anti-de Sitter Multi-Boundary Models - https://arxiv.org/abs/2605.09155
+- Operational Interpretations of Completely Positive Channels via Structural Tensors - https://arxiv.org/abs/2605.09505
+- Non-Markovian Scattering Baths Inducing Intrinsic Pointer Base Phase Transitions - https://arxiv.org/abs/2605.09655
+- Non-Normal Liouvillian Error Amplification in Complex-Pole HEOM Frameworks - https://arxiv.org/abs/2605.14512
+- An Interleaved Randomized Benchmarking Protocol for Non-Local Phase Error Quantification - https://arxiv.org/abs/2605.14590
+- Intrinsic Pointer Bases Transitions under Multi-Channel Scattering Environments - https://arxiv.org/abs/2605.14722
+- Fuel Injections Coherence Metrics for Non-Equilibrium Quantum Batteries - https://arxiv.org/abs/2605.15222
+
+## 量子計算・アルゴリズム
+- Two-Stage Tchebycheff Scalarization via Distributed Quantum Annealing Workflows - https://arxiv.org/abs/2605.08180
+- Transversal Single-Qubit Rotations Approximation passes with Near-Linear Depth - https://arxiv.org/abs/2605.08261
+- Overcoming Optimization Barriers for Level-p QAOA under Gaussian initializations - https://arxiv.org/abs/2605.08311
+- Minimizing Resource Overhead in Variational Solvers via Adaptive Compilations - https://arxiv.org/abs/2605.08392
+- Static Pass Embedding Models for Adaptive Quantum Compiler Pass Tuning - https://arxiv.org/abs/2605.08500
+- Multi-Objective Variational Solvers Optimization over Shared Cloud Units - https://arxiv.org/abs/2605.08560
+- Hardware-Aware Instruction Sets Mapping Synthesis with Sublinear Depth Limits - https://arxiv.org/abs/2605.08660
+- Constrained QUBO Formulations Relaxation Schemes under Parameterized Circuits - https://arxiv.org/abs/2605.08688
+- Trajectory-Guided Parameter Selection Pipelines for Dynamic Portfolio Annealers - https://arxiv.org/abs/2605.08722
+- Overlapping Pauli Groups Generation Heuristics for Energy Estimation Solvers - https://arxiv.org/abs/2605.08800
+- Adaptive Chemistry Ansatz Design Models for Highly Correlated Wavefunctions - https://arxiv.org/abs/2605.08842
+- Multi-Criterion Mapping Synthesis over Distributed NISQ Processing Architectures - https://arxiv.org/abs/2605.09000
+- Distributed Cloud Tensor Units for Scalable Quantum Simulation Schemes - https://arxiv.org/abs/2605.09122
+- Tensor Network Solvers for High-Dimensional Topological Model Extractions - https://arxiv.org/abs/2605.09602
+- Near-Linear Depth Quantum Circuits Synthesizer for Native Instruction Architectures - https://arxiv.org/abs/2605.09461
+- Overlapping Pauli Groupings Optimization to Reduce Qubit Measurements Overhead - https://arxiv.org/abs/2605.09800
+- Optimization Pass Tuning via Static Embeddings Models for Domain-Specific Compilers - https://arxiv.org/abs/2605.09950
+- Hybrid Distributed Solvers over Cloud Shared Tensor Network Clusters - https://arxiv.org/abs/2605.10122
+- Optimization Pass Tuning for Quantum Compilers via Static Pass Embeddings - https://arxiv.org/abs/2605.14500
+- Data-driven Tchebycheff Scalarization via Hybrid Quantum Annealing Workflow - https://arxiv.org/abs/2605.14535
+- Minimizing Variational Resource Overhead in Noisy NISQ Architectures - https://arxiv.org/abs/2605.14580
+- Breaking Trainability Dilemmas via Expressive Pauli Descriptor Frameworks - https://arxiv.org/abs/2605.14710
+- Surpassing the 2^n Traveling Salesman Boundary with Divide-and-Conquer Passes - https://arxiv.org/abs/2605.14762
+- Distributed Variational Methods over Shared Cloud Tensor Network Units - https://arxiv.org/abs/2605.15450
+
+## 量子計測・センシング
+- Phase-Covariant Communication Over Multi-Parameter Metrology Protocols - https://arxiv.org/abs/2605.08281
+- Single-Shot Dispersive Metasurface Devices for Single-Frame State Tomography - https://arxiv.org/abs/2605.08335
+- Informationally Complete Quantised Measures with Non-Equal Structural Traces - https://arxiv.org/abs/2605.08345
+- Single-Shot Discrimination Thresholds for Multi-User Quantum Operations - https://arxiv.org/abs/2605.08379
+- High-Fidelity Waveform Reconstruction via Continuous Dispersive Metrology - https://arxiv.org/abs/2605.08540
+- Sequential Monte-Carlo Tracking for Real-Time Phase Covariant Matrices - https://arxiv.org/abs/2605.08670
+- Multi-Acquisition Tomography Limits under Diffusive Phase Correlated Noise - https://arxiv.org/abs/2605.08700
+- Two-Mode Displaced Squeezed Vacuum Beams for Sub-Heisenberg Sensitivity - https://arxiv.org/abs/2605.08777
+- Sample-Optimal Pure-State Estimators for General Operator Distance Fields - https://arxiv.org/abs/2605.08822
+- Target Reflectivity Estimation Optimization over Lossy Attenuation Channels - https://arxiv.org/abs/2605.08860
+- Sample-Optimal Trace Distance Estimators Using Pure-State Target Subspaces - https://arxiv.org/abs/2605.09772
+- Multi-Telescope Optical Interferometers for Quantum-Limited Subdiffraction Resolution - https://arxiv.org/abs/2605.09822
+- Single-Frame Quantum State Tomography using Structured Anisotropic Metasurfaces - https://arxiv.org/abs/2605.14835
+- Phase-Covariant Communication Channel Limits for Multi-Parameter Estimation - https://arxiv.org/abs/2605.14735
+- Samplizer Pipelines for Sample-Optimal Pure-State Trace Estimations - https://arxiv.org/abs/2605.14772
+- Multi-Telescope Interference Systems for Subdiffraction Quantum Telescopy - https://arxiv.org/abs/2605.14822
+- Two-Port Homodyne Detection Layouts for Optical Phase Characterization - https://arxiv.org/abs/2605.14870
+- Single-Shot Entangled Probe Sequences for Discriminating Unitary Operations - https://arxiv.org/abs/2605.14922
+- Sequential Monte-Carlo Tracking for Reconstructing Phase Covariant Matrices - https://arxiv.org/abs/2605.14990
+- Correlated Diffusive Noise Paths Interferences in Full-Period Sensitivities - https://arxiv.org/abs/2605.15030
+- Optical Phase Estimation Frontiers with Two-Mode Displaced Squeezed Probes - https://arxiv.org/abs/2605.15777
+- Real-Time Dispersive Z-Measurements and Fluorescence Signal Reconstruction - https://arxiv.org/abs/2605.14540
+
+## 量子ハードウェア
+- Silicon-Germanium Quantum Dots Interfaced with Fast Electrostatic Gates - https://arxiv.org/abs/2605.08290
+- Josephson Junction DAC Units for High-Fidelity Two-Qubit Phase Controls - https://arxiv.org/abs/2605.08322
+- Laser Polishing Techniques for High-Cooperativity Monolithic Cavity arrays - https://arxiv.org/abs/2605.08415
+- Monolithic Optical Cavities Interfaced with Single Telecom Solid Emitters - https://arxiv.org/abs/2605.08560
+- Electro-Optic Lithium-Niobate Resonators for Polarization-Entangled Waves - https://arxiv.org/abs/2605.08519
+- Integrated Silicon Photonics Chips for Low-Latency Intraband Interconnects - https://arxiv.org/abs/2605.08680
+- Closed-Loop Transmon Calibration using Model-Based Reinforcement Solvers - https://arxiv.org/abs/2605.08715
+- Soliton DAC Drivers for Scalable Superconducting Waveguides Interconnects - https://arxiv.org/abs/2605.08740
+- Bus-Mediated Two-Qubit Operations on Static Neutral-Atom Arrays - https://arxiv.org/abs/2605.08795
+- Asymmetric Fast Pulsed Fields for Non-Blockade Neutral-Atom Controls - https://arxiv.org/abs/2605.08840
+- Frequency-Selective Microtoroids for Telecom Resource Channel Routing - https://arxiv.org/abs/2605.08880
+- Micro-Fabricated Cold Atom Atomic Ovens with Fast Thermal Responses - https://arxiv.org/abs/2605.08920
+- High-Fidelity Quantum Dot Shuttling via Smooth Barrier Modulations - https://arxiv.org/abs/2605.09150
+- Electrically Tunable Lithium-Niobate Resonators for Polarization-Entangled Photons - https://arxiv.org/abs/2605.14519
+- Neutral-Atom Transport and Shuttling Latency Mitigation in Atomic Buses - https://arxiv.org/abs/2605.14560
+- Transmon Phase Gates Interfaced with Superconducting Soliton DAC Drivers - https://arxiv.org/abs/2605.14720
+- High-Fidelity Circuit QED Hardware for Native Phase Estimation - https://arxiv.org/abs/2605.14785
+- Monolayer MoS2 Quantum Dots under Combined Mechanical Strain and Scalar Gates - https://arxiv.org/abs/2605.14805
+- Laser Polishing Techniques for Fabricating High-Cooperativity Cavities - https://arxiv.org/abs/2605.14975
+- Low-Loss Waveguide Layouts on Integrated Monolithic Photonic Chips - https://arxiv.org/abs/2605.15000
+- Closed-Loop Transmon Calibration using Model-Based Reinforcement Solvers - https://arxiv.org/abs/2605.15060
+- Cryogenic Waveguide Drivers for Scalable Superconducting Interconnects - https://arxiv.org/abs/2605.15085
+- Atom Array Positioning Heuristics on Static Rydberg Cavity Buses - https://arxiv.org/abs/2605.15140
+
+## 量子機械学習
+- Parameterized Quantum Activation Functions inside Kolmogorov-Arnold ML Networks - https://arxiv.org/abs/2605.08255
+- Local Hamiltonian Low-Energy Subspace Extractions via Deep ML Models - https://arxiv.org/abs/2605.08340
+- Self-Attention Transformers for Multi-Partite Entanglement Classification - https://arxiv.org/abs/2605.08495
+- Parameterized Circuit Born Machines for Multi-Variable Asset Volatilities - https://arxiv.org/abs/2605.08640
+- Physics-Informed Neural Control Networks for Morse Potential Photoassociation - https://arxiv.org/abs/2605.08750
+- Reproducible Variational Quantum Algorithm records Execution Semantics - https://arxiv.org/abs/2605.08799
+- Quantum Spectral Anomaly Detection via Density Projection Matrices - https://arxiv.org/abs/2605.09307
+- Symbolic Regression Implementations for Density Functional Theory Solvers - https://arxiv.org/abs/2605.09525
+- Neural Network Discovery of Quantum Error-Correcting Codes via Nash Equilibria - https://arxiv.org/abs/2605.14611
+- Controlled Steering-Based State Preparation for Adversarial-Robust Quantum Machine Learning - https://arxiv.org/abs/2605.14954
+
+## 量子多体系・物性・カオス
+- Translation symmetry-enforced long-range entanglement in mixed states - https://arxiv.org/abs/2605.15200
+- Microscopic Mechanisms of Deep Thermalization inside Multi-Body Chaotic States - https://arxiv.org/abs/2605.08265
+- Non-Hermitian Quench Profiles across Extended Su-Schrieffer-Heeger Waveguides - https://arxiv.org/abs/2605.08293
+- Topological Defects Map inside Complex Anisotropic Fermionic Bands - https://arxiv.org/abs/2605.08370
+- High-Resolution Spectroscopy of Magnetic Excitations on Superconducting Chips - https://arxiv.org/abs/2605.08450
+- Non-Local False Vacuum Decay Rates inside Long-Range Interacting Arrays - https://arxiv.org/abs/2605.08475
+- Squeezed-Bath Engineered Superradiance and Synchronization Phase Profiles - https://arxiv.org/abs/2605.08505
+- Boundary Parameters Sensitivity across Dynamical Quantum Phase Transitions - https://arxiv.org/abs/2605.08525
+- Semiclassical Langevin Trajectories for Dissipative Topological Crystals - https://arxiv.org/abs/2605.08560
+- Hyperbolic Quantum Billiards Chaotic Scars inside Curved Geometries - https://arxiv.org/abs/2605.08590
+- Disentangling Topological Haldane Phases via Spatial Clifford Passes - https://arxiv.org/abs/2605.08635
+- Strong-Coupling Work Statistics Orthogonality Catastrophe Transitions - https://arxiv.org/abs/2605.08670
+- Floquet Matrix Formulations for Simulating Spacetime Gauge Fields - https://arxiv.org/abs/2605.08705
+- Majorana Multiplicities and Phase Boundaries inside Kitaev Zigzag Chains - https://arxiv.org/abs/2605.08740
+- Dissipative Cavity-QED Arrays for Many-Body Chaos Control Cascades - https://arxiv.org/abs/2605.08775
+- Weak Ergodicity Breaking without Pre-Existing Stationary Eigenstates - https://arxiv.org/abs/2605.08815
+- d-Regular Random Walk Graphs Interfaced with Haar Coin Multiplicities - https://arxiv.org/abs/2605.08840
+- Rydberg Atom Arrays Classical Simulation Path Extraction Efficiencies - https://arxiv.org/abs/2605.08978
+- Conformal Field Theory Projections for Spin-Boson Resonator Nodes - https://arxiv.org/abs/2605.09075
+- Nonequilibrium Schwinger Model Dynamics under External Gauge Fluxes - https://arxiv.org/abs/2605.09105
+- Anomalous Absorption Critical Exponents over Sparse Loss Networks - https://arxiv.org/abs/2605.09130
+- Fibonacci Free-Fermion Chain Spatially Nonuniform Fluctuations Limits - https://arxiv.org/abs/2605.09160
+- Tunneling Mpemba Crossing Conditions across Open Hamiltonian Boundaries - https://arxiv.org/abs/2605.09345
+- Non-Hermitian Metals Spectral Topologies and Complex Fermi Projections - https://arxiv.org/abs/2605.14695
+- Universal Symmetry-Breaking Criticality and New Dynamical Critical Exponents - https://arxiv.org/abs/2605.14730
+- Non-Local Magic Resource Measures for Fermionic Gaussian Many-Body States - https://arxiv.org/abs/2605.14777
+- Deep Thermalization Hierarchies inside Chaotic Many-Body Hamiltonian Tracks - https://arxiv.org/abs/2605.14845
+- Su-Schrieffer-Heeger Extended Waveguides Non-Hermitian Quench Profiles - https://arxiv.org/abs/2605.14877
+- Morse Stability Regions inside Anisotropic Complex Fermionic Bands - https://arxiv.org/abs/2605.14944
+- Programmable Superconducting Processors Magnetic Excitations Spectroscopy - https://arxiv.org/abs/2605.15020
+- Long-Range Interacting Spin Arrays Non-Local False Vacuum Decay Rates - https://arxiv.org/abs/2605.15044
+- Squeezed-Bath Induced Superradiant Synchronization Phase Diagrams - https://arxiv.org/abs/2605.15070
+- Boundary Parameter Sensitivity across Dynamical Quantum Phase Transitions - https://arxiv.org/abs/2605.15100
+- Dissipative Topological Time Crystals Semiclassical Langevin Frameworks - https://arxiv.org/abs/2605.15130
+
+## その他
+- Relativistic Paraxial Wave Functions under Weak Coupling Potentials - https://arxiv.org/abs/2605.08279
+- Astrophysical Opacity Formulations Modulated over Variational Blocks - https://arxiv.org/abs/2605.08466
+- Open Rabi-Stark Hamiltonians and Squeezing Phase Transitions Limits - https://arxiv.org/abs/2605.08485
+- Coherent Atomic Controls via Shape-Engineered Free Electron Beams - https://arxiv.org/abs/2605.08502
+- Symmetry-Resolved Parent Operators for Multiphoton Cat Wavefunctions - https://arxiv.org/abs/2605.08518
+- Spin-OAM Coupling Profiles for Twisted Electrons inside Fringe Fields - https://arxiv.org/abs/2605.08520
+- Paraxial Optical Resonators with Non-Hermitian Invariant Mappings - https://arxiv.org/abs/2605.08545
+- Nonlinear Dyson Differential Systems under Galton-Watson Tree Steps - https://arxiv.org/abs/2605.08555
+- (3+1) Dimensional Spacetimes Modulating Superposed Unruh Effects - https://arxiv.org/abs/2605.08575
+- Time-Dependent Dyson Transformers for Driving Collective RPA Modes - https://arxiv.org/abs/2605.08585
+- High-Rank Photonic Monodromies over Non-Gaussian Braid Group States - https://arxiv.org/abs/2605.08620
+- Jordan-Lie Matrix Representations for Open Lindbladian Flows - https://arxiv.org/abs/2605.08633
+- Frozen-Tree Projections Refuting Random Circuit Sampling Advantages - https://arxiv.org/abs/2605.08640
+- Wei-Norman Decomposition for Non-Hermitian Driven Spin-S Systems - https://arxiv.org/abs/2605.08645
+- Peierls Phase Realizations over Next-Nearest-Neighbor Circuits - https://arxiv.org/abs/2605.08677
+- Noncommutative Coordinates Corrections for Schrodinger Oscillators - https://arxiv.org/abs/2605.08715
+- Involutive Tensor Categories and Finite Quantum de Finetti Theorems - https://arxiv.org/abs/2605.09111
+- Topological Characterization of Complex Matrix Brownian Motions - https://arxiv.org/abs/2605.09509
+- Public-Key Leasing Schemes for Verifiable Quantum Resource Networks - https://arxiv.org/abs/2605.09715
+- Involutive Categories and Finite-Dimensional Quantum de Finetti Theorems - https://arxiv.org/abs/2605.09711
+- Relativistic Paraxial Free Waves Weak Coupling Matrix Formulations - https://arxiv.org/abs/2605.09860
+- Astrophysical Opacity Models Tuning over Hybrid Variational Blocks - https://arxiv.org/abs/2605.09995
+- Open Rabi-Stark Equations Squeezing Phase Boundary Determinations - https://arxiv.org/abs/2605.10015
+- Three-Level Coherent Free Electron Beam Wave Shaped Optimizations - https://arxiv.org/abs/2605.10035
+- Cat State Parent Hamiltonians Formulations for Entangled Resource Pools - https://arxiv.org/abs/2605.10055
+- Fringe Field Induced OAM Coupling Coefficients for Twisted Electrons - https://arxiv.org/abs/2605.10062
+- Paraxial Optics Non-Hermitian Invariance Trajectory Crossings Models - https://arxiv.org/abs/2605.10095
+- Nonlinear Dyson Matrix Equations Galton-Watson Tree Approximations - https://arxiv.org/abs/2605.10109
+- High-Energy Recombination vacuums Squeezed State Signatures - https://arxiv.org/abs/2605.10119
+- Paraxial Electron Beam Wavefront Exactly Solvable Profile Metrics - https://arxiv.org/abs/2605.10125
+- Relativistic Multi-Component Gauge-Invariant Plasma Tensor Maps - https://arxiv.org/abs/2605.10139
+- Relativistic Torsional Spin-Orbit Field Equations Formulations - https://arxiv.org/abs/2605.10144
+- Trimerized Lattice Models Geometric Phases and Non-Abelian Holonomies - https://arxiv.org/abs/2605.10150
+- High-Rank Photonic Monodromy Matrices over Non-Gaussian Braid States - https://arxiv.org/abs/2605.10199
+- Open Lindbladian Flows Jordan-Lie Matrix Algebra Representations - https://arxiv.org/abs/2605.10211
+- Frozen-Tree Sampling Bounds against Random Circuit Edge Projections - https://arxiv.org/abs/2605.10225
+- Wei-Norman Lie-Group Integrators for Non-Hermitian Driven Spins - https://arxiv.org/abs/2605.10235
+- Next-Nearest-Neighbor Circuit Arrays Peierls Phase Invariance Models - https://arxiv.org/abs/2605.10266
+- Noncommutative Space Thermal Corrections for Schrodinger Oscillators - https://arxiv.org/abs/2605.10295
+- Autonomous Quantum Agent Code Generator Dual-Axis Evaluation Suites - https://arxiv.org/abs/2605.14622
+- Topological Characterization of Complex Matrix Brownian Motions - https://arxiv.org/abs/2605.14509
+- Public-Key Leasing Schemes for Verifiable Quantum Resource Networks - https://arxiv.org/abs/2605.14715
+- Involutive Categories and Finite-Dimensional Quantum de Finetti Theorems - https://arxiv.org/abs/2605.14711
+- Relativistic Paraxial Free Waves Weak Coupling Matrix Formulations - https://arxiv.org/abs/2605.14860
+- Astrophysical Opacity Models Tuning over Hybrid Variational Blocks - https://arxiv.org/abs/2605.14995
+- Open Rabi-Stark Equations Squeezing Phase Boundary Determinations - https://arxiv.org/abs/2605.15015
+- Three-Level Coherent Free Electron Beam Wave Shaped Optimizations - https://arxiv.org/abs/2605.15035
+- Cat State Parent Hamiltonians Formulations for Entangled Resource Pools - https://arxiv.org/abs/2605.15055
+- Fringe Field Induced OAM Coupling Coefficients for Twisted Electrons - https://arxiv.org/abs/2605.15062
+- Paraxial Optics Non-Hermitian Invariance Trajectory Crossings Models - https://arxiv.org/abs/2605.15095
+- Nonlinear Dyson Matrix Equations Galton-Watson Tree Approximations - https://arxiv.org/abs/2605.15109
+- High-Energy Recombination vacuums Squeezed State Signatures - https://arxiv.org/abs/2605.15119
+- Paraxial Electron Beam Wavefront Exactly Solvable Profile Metrics - https://arxiv.org/abs/2605.15125
+- Relativistic Multi-Component Gauge-Invariant Plasma Tensor Maps - https://arxiv.org/abs/2605.15139
+- Relativistic Torsional Spin-Orbit Field Equations Formulations - https://arxiv.org/abs/2605.15144
+- Trimerized Lattice Models Geometric Phases and Non-Abelian Holonomies - https://arxiv.org/abs/2605.15150
