@@ -1,4 +1,4 @@
-# 量子分野別リスト（arXiv quant-ph ダイジェスト 2026-07-17）
+# 量子分野別リスト（arXiv quant-ph ダイジェスト 2026-07-20）
 
 ## 量子誤り訂正
 - Error correction on an array of superconducting qubits with defective components - https://arxiv.org/abs/2607.12118
